@@ -1,4 +1,9 @@
-<<html> 
+<html> 
+ 
+ <head> 
+   
+   <title> página inicial </title> 
+ </head>
 
 <body text= "red" background= "https://s2.glbimg.com/2DaQ8YKTdA6NGYgA28eVbmQ6g1k=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/01/20/leve-e-iluminada-esta-casa-na-bahia-mistura-estrutura-metalica-madeira-e-vidro_9.jpg">  
 
