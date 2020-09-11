@@ -5,7 +5,7 @@
    <title>página inicial</title> 
  </head>
 
-<body text= "4F2525" background= "https://img.elo7.com.br/product/original/28B29DA/fundo-fotografico-em-tecido-textura-cinza-2-20x1-50-decoracao.jpg">  
+<body text= "White" background= "https://img.elo7.com.br/product/original/28B29DA/fundo-fotografico-em-tecido-textura-cinza-2-20x1-50-decoracao.jpg">  
 
  <h1> Bem-vindo </h1>
  <h3> este é meu primeiro site </h3>
