@@ -12,9 +12,9 @@
  <h2> então desculpem bugs ou falhas, ele está bem no comeso do desenvouvimento </h2> 
  <h1> Caso quira conhecer: </h1>
 
- <h2>  <a href= "https://github.com/Serjancai"> meu github </a> <br> </h2>
- <h2>  <a href= "https://twitter.com/Caioadornocamp1"> meu twitter  </a> <br> </h2>
- <h2>    <a href= "https://www.twitch.tv/serjancai"> minha twitch </a> <br> </h2>
+ <h2> - <a href= "https://github.com/Serjancai"> meu github </a> <br> </h2>
+ <h2> - <a href= "https://twitter.com/Caioadornocamp1"> meu twitter  </a> <br> </h2>
+ <h2>  -  <a href= "https://www.twitch.tv/serjancai"> minha twitch </a> <br> </h2>
  
   <h2> quando eu aprender mais irei melhorar o site </h2>
  
