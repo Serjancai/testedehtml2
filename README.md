@@ -5,7 +5,7 @@
    <title>página inicial</title> 
  </head>
 
-<body text= "White" background= "https://img.freepik.com/vetores-gratis/fundo-abstrato-com-textura-de-tinta-verde_1035-19231.jpg?size=626&ext=jpg">  
+<body text= "White" background= "https://img.freepik.com/fotos-gratis/parede-de-tijolo-vintage-marrom-vermelho-com-estrutura-pobre-fundo-widewall-de-largura-horizontal-textura-de-parede-em-branco-de-tijolo-vermelho-sujo-fachada-retro-da-casa-banner-panoramico-panoramico-abstrato-superficie-de-stonewall_1253-1065.jpg?size=626&ext=jpg">  
 
  <h1> Bem-vindo </h1>
  <h2> este é meu primeiro site </h2>
