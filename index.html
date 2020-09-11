@@ -5,7 +5,7 @@
    <title>página inicial</title> 
  </head>
 
-<body text= "White" background= "https://images.madeiramadeira.com.br/product/images/22778661-papel-de-parede-adesivo-3d-textura-geometrica-m03r015-3624-1-600x584.jpg">  
+<body text= "black" background= "https://images.madeiramadeira.com.br/product/images/22778661-papel-de-parede-adesivo-3d-textura-geometrica-m03r015-3624-1-600x584.jpg">  
 
  <h1> Bem-vindo </h1>
  <h2> este é meu primeiro site </h2>
