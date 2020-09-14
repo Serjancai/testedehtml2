@@ -12,9 +12,9 @@
      
   <h1 align= "center">Caso quira conhecer:</h1>
 
- <h2 align="center"> - <a href= "https://github.com/Serjancai"> meu github </a> <br> </h2>
- <h2 align="center"> - <a href= "https://twitter.com/Caioadornocamp1"> meu twitter  </a> <br> </h2>
- <h2 align="center">  -  <a href= "https://www.twitch.tv/serjancai"> minha twitch </a> <br> </h2>
+ <h2 align="center"> - <a href= "https://github.com/Serjancai"> meu github </a> </h2>
+ <h2 align="center"> - <a href= "https://twitter.com/Caioadornocamp1"> meu twitter  </a> </h2>
+ <h2 align="center">  -  <a href= "https://www.twitch.tv/serjancai"> minha twitch </a> </h2>
  
   <h2 align="center"> quando eu aprender mais irei melhorar o site </h2>
  
